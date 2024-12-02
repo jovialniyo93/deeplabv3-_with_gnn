@@ -3,7 +3,7 @@
 ![Opencv-python](https://img.shields.io/badge/Opencv-python-V4.8.0.76-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
 ![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-October%2024-red)
+![releasedate](https://img.shields.io/badge/release%20date-December%2024-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 # Deep Learning Approach Improved by Graph Neural Networks for Cell Segmentation and Tracking #
