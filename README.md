@@ -31,7 +31,7 @@ In order to get the code, either clone the project, or download a zip file from 
 
 Clone the deeplabv3+_with_gnn repository:
 ```
-https://github.com/jovialniyo93/deeplabv3+_with_gnn.git
+https://github.com/jovialniyo93/deeplabv3plus_with_gnn.git
 ```
 Open the Anaconda Prompt (Windows) or the Terminal (Linux), go to the deeplabv3+_with_gnn repository and create a new virtual environment:
 ```
@@ -40,9 +40,9 @@ cd path_to_the_cloned_repository
 ```
 conda env create -f requirements.yml
 ```
-Activate the virtual environment transdeepseg_ve:
+Activate the virtual environment deeplabv3plus_with_gnn_ve:
 ```
-conda activate deeplabv3+_with_gnn_ve
+conda activate deeplabv3plus_with_gnn_ve
 ```
 
 # How to train and test our model
